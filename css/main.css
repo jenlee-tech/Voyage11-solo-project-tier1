@@ -1,12 +1,18 @@
-#nav {
-    text-align: center;
-    background-color: #333;
-
-
+body {
+    margin: 0%;
 }
 
 
-/*styling for navigation bar*/
+
+#nav {
+    text-align: center;
+    background-color: #333;
+    padding-top: 0%;
+    width: 100%;
+}
+
+
+/*styling for navigation bar.ul*/
 ul {
     display: inline-block;
     list-style-type: none;
